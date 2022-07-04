@@ -1,3 +1,4 @@
+import { google } from "@googlemaps/js-api-loader";
 google.maps.__gjsload__("controls", function (_) {
   var Zsa,
     hD,
